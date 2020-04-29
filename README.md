@@ -9,7 +9,7 @@
   + Week 2 Montecarlo Methods
   + Week 3 Temporal Difference Learning
   + Week 4 Q-Learning, SARSA, Expected SARSA
-  + Week 5
+  + Week 5 Dyna-Q, Dyna-Q+
 + **[Prediction and Control with Function Approximation]**
   + Week 1
   + Week 2
