@@ -11,8 +11,8 @@
   + Week 4 Q-Learning, SARSA, Expected SARSA
   + Week 5 Dyna-Q, Dyna-Q+
 + **[Prediction and Control with Function Approximation]**
-  + Week 1
-  + Week 2
+  + Week 1 On-Policy Prediction with Approximation
+  + Week 2 Constructing Features for Prediction
   + Week 3
   + Week 4
 + **[A Complete Reinforcement Learning System (Capstone)]**
