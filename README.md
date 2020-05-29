@@ -1,5 +1,12 @@
 # Reinforcement Learning Specialisation
 
+Reinforcement Learning Specialisation offered on [coursera](https://www.coursera.org) by the University of Alberta
+
+## Information
+**Course Title**: Reinforcement Learning Specialisation  
+**Offered by**: Univeristy of Alberta, Alberta Machine Intelligence Institute  
+**Link to the course**: [Reinforcement Learning Specialisation](https://www.coursera.org/specializations/reinforcement-learning) 
+
 ## Fundamentals of Reinforcement Learning
   + *Week 1* -  Exploration-Exploitation
   + *Week 2* -  MDPs (Markov Decision Process)
