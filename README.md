@@ -20,8 +20,8 @@ Reinforcement Learning Specialisation offered on [coursera](https://www.coursera
 ## Prediction and Control with Function Approximation
   + *Week 1* - On-Policy Prediction with Approximation
   + *Week 2* - Constructing Features for Prediction
-  + *Week 3* - 
-  + *Week 4* - 
+  + *Week 3* - Control with Approximation
+  + *Week 4* - Policy Gradient
 ## A Complete Reinforcement Learning System (Capstone)
   + *Week 1* - 
   + *Week 2* - 
